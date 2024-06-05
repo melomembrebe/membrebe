@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+
+.masthead {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.masthead-intro {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.masthead-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+.introduction-section {
+    background-color: rgb(190, 7, 7);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.introduction-section h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.introduction-section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
